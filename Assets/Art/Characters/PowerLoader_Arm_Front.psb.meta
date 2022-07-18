@@ -1,0 +1,376 @@
+fileFormatVersion: 2
+guid: 548c19ae396fe5143ba88c3685b959b5
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: b2a9591990af98743ba3ff7cf1000886, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 1
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    isReadable: 0
+    streamingMipmaps: 1
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  spriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: 0, y: 0}
+  mosaicSpriteImportData: []
+  rigSpriteImportData:
+  - name: Arm_Front_Outer
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 485
+      width: 406
+      height: 138
+    spriteID: e950f6959a1a69747a692f89bdcdc84b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -786, y: 83}
+  - name: Piston_Arm_Body_Front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 833
+      width: 161
+      height: 116
+    spriteID: c18ddf9426f144043a162945bdd771f7
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -685, y: 551}
+  - name: Hand_Front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 631
+      width: 266
+      height: 194
+    spriteID: 8a3662d3084dd9f41a46a2370b9d5e63
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -1106, y: 225}
+  - name: Shoulder_Front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 377
+      height: 326
+    spriteID: 31a4bdcd6209cb0469d93f907b48545b
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -542, y: -455}
+  - name: Piston_Arm_Shaft_Front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 278
+      y: 631
+      width: 174
+      height: 120
+    spriteID: 6d01ff0b16f74ff4688869402586cfef
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -306, y: 242}
+  - name: Arm_Front_Inner
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 338
+      width: 408
+      height: 139
+    spriteID: c23b031497ac8194b9797cdebe338047
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -806, y: -75}
+  - name: Piston_Shoulder_Body_Front
+    originalName: 
+    pivot: {x: 0.5, y: 0.5}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 389
+      y: 4
+      width: 68
+      height: 219
+    spriteID: 88fda438fb54d8e4e98001e2651ba6e1
+    internalID: 0
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    parentGroupIndex: -1
+    uvTransform: {x: -125, y: -472}
+  platformSettings: []
+  mosaicLayers: 1
+  documentPivot: {x: 0, y: 0}
+  documentAlignment: 7
+  importHiddenLayers: 0
+  importedTextureWidth: 512
+  importedTextureHeight: 1024
+  documentSize: {x: 1920, y: 1080}
+  paperDollMode: 0
+  keepDupilcateSpriteName: 0
+  spriteCategoryList:
+    categories: []
+  textureActualWidth: 512
+  textureActualHeight: 1024
+  spritePackingTag: 
+  resliceFromLayer: 0
+  characterMode: 1
+  mosaicPSDLayers: []
+  rigPSDLayers:
+  - name: Arm_Front_Outer
+    spriteName: Arm_Front_Outer
+    isGroup: 0
+    parentIndex: -1
+    spriteID: e950f6959a1a69747a692f89bdcdc84b
+    layerID: 17
+    mosaicPosition: {x: 4, y: 485}
+  - name: Piston_Arm_Body_Front
+    spriteName: Piston_Arm_Body_Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c18ddf9426f144043a162945bdd771f7
+    layerID: 16
+    mosaicPosition: {x: 4, y: 833}
+  - name: Hand_Front
+    spriteName: Hand_Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 8a3662d3084dd9f41a46a2370b9d5e63
+    layerID: 15
+    mosaicPosition: {x: 4, y: 631}
+  - name: Shoulder_Front
+    spriteName: Shoulder_Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 31a4bdcd6209cb0469d93f907b48545b
+    layerID: 14
+    mosaicPosition: {x: 4, y: 4}
+  - name: Piston_Arm_Shaft_Front
+    spriteName: Piston_Arm_Shaft_Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 6d01ff0b16f74ff4688869402586cfef
+    layerID: 13
+    mosaicPosition: {x: 278, y: 631}
+  - name: Arm_Front_Inner
+    spriteName: Arm_Front_Inner
+    isGroup: 0
+    parentIndex: -1
+    spriteID: c23b031497ac8194b9797cdebe338047
+    layerID: 12
+    mosaicPosition: {x: 4, y: 338}
+  - name: Piston_Shoulder_Body_Front
+    spriteName: Piston_Shoulder_Body_Front
+    isGroup: 0
+    parentIndex: -1
+    spriteID: 88fda438fb54d8e4e98001e2651ba6e1
+    layerID: 18
+    mosaicPosition: {x: 389, y: 4}
+  characterData:
+    bones:
+    - name: Bone_Shoulder_Front
+      position: {x: 702.029, y: 637.1015, z: 0}
+      rotation: {x: 0, y: 0, z: -0.33249727, w: 0.94310427}
+      length: 143.27321
+      parentId: -1
+    - name: Bone_Arm_Front
+      position: {x: 216.5737, y: 10.643217, z: 0}
+      rotation: {x: 0, y: 0, z: 0.33720854, w: 0.94143}
+      length: 289.86966
+      parentId: 0
+    - name: Bone_Hand_Front
+      position: {x: 289.86963, y: 0.000019644773, z: 0}
+      rotation: {x: 0, y: 0, z: -0.009064488, w: 0.999959}
+      length: 178.26689
+      parentId: 1
+    parts:
+    - spritePosition:
+        x: 793
+        y: 418
+        width: 406
+        height: 138
+      spriteId: 66fe61ab03f5714479018e78b1983b93
+      bones: 0100000002000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 1113
+        y: 422
+        width: 266
+        height: 194
+      spriteId: a8f16fa2b6b9d6c4896bbb31696cedda
+      bones: 0200000001000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 549
+        y: 475
+        width: 377
+        height: 326
+      spriteId: 341dfd37cef32f44b8878756c5368f69
+      bones: 010000000000000002000000
+      parentGroup: 0
+      order: 0
+    - spritePosition:
+        x: 813
+        y: 429
+        width: 408
+        height: 139
+      spriteId: ba529465bbf9ab5439bd284f5de6dab5
+      bones: 0100000002000000
+      parentGroup: 0
+      order: 0
+    dimension: {x: 0, y: 0}
+    characterGroups: []
+  generateGOHierarchy: 0
+  textureAssetName: PowerLoader_Arm_Front Texture
+  prefabAssetName: PowerLoader_Arm_Front Prefab
+  spriteLibAssetName: PowerLoader_Arm_Front Sprite Lib
+  secondarySpriteTextures: []
