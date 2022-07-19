@@ -16023,6 +16023,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: shack
       objectReference: {fileID: 0}
+    - target: {fileID: 3397324766610724570, guid: 68ec058987a13974d9c5982a44ae982d, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 7261072762241735510, guid: 68ec058987a13974d9c5982a44ae982d, type: 3}
 --- !u!4 &1416015129 stripped
